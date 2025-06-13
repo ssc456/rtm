@@ -1,176 +1,179 @@
 {
-  "siteTitle": "Scott's Dogs",
+  "siteTitle": "RTM Builders",
   "logoUrl": "/images/logo.png",
   "hero": {
-    "headline": "Professional Dog Walking & Pet Care",
-    "subheadline": "Keeping tails wagging across town since 2018",
-    "ctaText": "Book a Walk",
+    "headline": "Quality Building & Renovation Services",
+    "subheadline": "Transforming properties across the local area since 2010",
+    "ctaText": "Get a Quote",
     "ctaLink": "#contact"
     },
   "about": {
-    "title": "About Scott's Dogs",
-    "description": "I've always had a special connection with dogs and turned my passion into a profession. With over 5 years of experience, I provide personalized dog walking services that keep your furry friends happy, healthy, and exercised. Each walking session is tailored to your dog's energy level, age, and personality. Your pet's safety and wellbeing are my top priorities, and I treat every dog as if they were my own.",
-    "image": "/images/dog1.jpg"
+    "title": "About RTM Builders",
+    "description": "At RTM Builders, we've built our reputation on delivering exceptional craftsmanship and reliable building services for over a decade. What began as a passion for quality construction has grown into a trusted local business serving homeowners and property developers alike. From minor repairs to complete renovations and new builds, we approach each project with the same commitment to excellence and attention to detail. Our experienced team works closely with you to understand your vision and bring it to life, ensuring results that exceed expectations and stand the test of time.",
+    "image": "/images/construction1.jpg"
   },
   "services": {
     "title": "Our Services",
-    "description": "Flexible dog walking options to suit your pet's needs and your schedule",
+    "description": "Comprehensive building and renovation solutions for all your property needs",
     "layoutStyle": "interactive",
     "items": [
       {
-        "title": "Solo Walk",
-        "description": "One-on-one attention for dogs who need special care or prefer their own space.",
-        "iconName": "Paw",
-        "details": [
-          "30-minute dedicated walk",
-          "Full attention to your dog only",
-          "Route tailored to your dog's preferences",
-          "Text updates with photos",
-          "Fresh water provided",
-          "Price: £15 per walk"
-        ]
-      },
-      {
-        "title": "Group Walk",
-        "description": "Social walks with up to 4 compatible dogs for fun and friendship.",
-        "iconName": "Users",
-        "details": [
-          "45-minute group adventure",
-          "Socialization with other friendly dogs",
-          "Supervised play time",
-          "Text updates with photos",
-          "Fresh water provided",
-          "Price: £12 per walk"
-        ]
-      },
-      {
-        "title": "Puppy Package",
-        "description": "Gentle care for younger dogs with bathroom breaks and basic training.",
-        "iconName": "Heart",
-        "details": [
-          "20-minute visits",
-          "Toilet breaks & playtime",
-          "Basic command reinforcement",
-          "Perfect for puppies under 1 year",
-          "Text updates with photos",
-          "Price: £10 per visit"
-        ]
-      },
-      {
-        "title": "Adventure Walk",
-        "description": "Extended outdoor experience for high-energy dogs who need extra exercise.",
-        "iconName": "Mountain",
-        "details": [
-          "60-minute extended walk",
-          "Trails and park exploration",
-          "Ideal for high-energy breeds",
-          "Text updates with photos",
-          "Fresh water provided",
-          "Price: £20 per walk"
-        ]
-      },
-      {
-        "title": "Training Add-On",
-        "description": "Reinforce basic commands and work on specific behaviors during walks.",
-        "iconName": "GraduationCap",
-        "details": [
-          "Available with any walk package",
-          "Basic command practice",
-          "Positive reinforcement methods",
-          "Price: £5 extra per session"
-        ]
-      },
-      {
-        "title": "Home Visit Service",
-        "description": "Quick visit to your home to feed, provide fresh water, and let your dog out.",
+        "title": "Extensions",
+        "description": "Expand your living space with bespoke home extensions built to the highest standards.",
         "iconName": "Home",
         "details": [
-          "15-minute home visit",
-          "Feeding and fresh water",
-          "Brief toilet break",
-          "Perfect for busy workdays",
-          "Price: £8 per visit"
+          "Single and double-story extensions",
+          "Kitchen and living space expansions",
+          "Loft and garage conversions",
+          "Full planning and building regulation compliance",
+          "Seamless integration with existing structure",
+          "End-to-end project management"
+        ]
+      },
+      {
+        "title": "Renovations & Conversions",
+        "description": "Transform outdated spaces into beautiful, functional areas that enhance your property.",
+        "iconName": "Tools",
+        "details": [
+          "Complete interior renovations",
+          "Period property restorations",
+          "Garage and loft conversions",
+          "Conservatory upgrades",
+          "Structural alterations",
+          "Custom-made features and fixtures"
+        ]
+      },
+      {
+        "title": "New Builds",
+        "description": "Custom-built properties constructed with precision and quality materials.",
+        "iconName": "Building",
+        "details": [
+          "Residential new builds",
+          "Commercial properties",
+          "Garages and outbuildings",
+          "Architectural design support",
+          "Planning permission assistance",
+          "Energy-efficient construction methods"
+        ]
+      },
+      {
+        "title": "Groundworks & Drainage",
+        "description": "Solid foundations and effective drainage solutions for any construction project.",
+        "iconName": "Shovel",
+        "details": [
+          "Foundation excavation and preparation",
+          "Concrete bases and footings",
+          "Drainage system installation",
+          "Soakaway creation",
+          "Waterproofing solutions",
+          "Site clearance and leveling"
+        ]
+      },
+      {
+        "title": "Masonry & Repointing",
+        "description": "Expert brickwork and stone masonry to maintain and enhance your property.",
+        "iconName": "Bricks",
+        "details": [
+          "Brick and stone wall construction",
+          "Traditional lime mortar repointing",
+          "Chimney stack repairs and restoration",
+          "Damp prevention treatments",
+          "Heritage property specialization",
+          "Structural repairs"
+        ]
+      },
+      {
+        "title": "Landscaping & Paving",
+        "description": "Complete outdoor transformations to maximize your property's potential.",
+        "iconName": "Garden",
+        "details": [
+          "Patio and driveway installation",
+          "Fencing and garden walls",
+          "Block paving and slabbing",
+          "Decking construction",
+          "Garden structures and features",
+          "Drainage integration"
         ]
       }
     ]
   },
   "features": {
-    "title": "Why Choose Us?",
+    "title": "Why Choose RTM Builders?",
     "items": [
       {
-        "iconName": "Shield",
-        "title": "Fully Insured & DBS Checked",
-        "description": "Your pets are protected with comprehensive insurance coverage and you can trust our background-checked service."
+        "iconName": "Award",
+        "title": "Quality Craftsmanship",
+        "description": "Our skilled tradespeople take pride in their work, using premium materials and proven techniques to ensure lasting results you'll be proud of."
       },
       {
         "iconName": "Clock",
-        "title": "Reliable & Punctual",
-        "description": "Count on consistent walk times with real-time updates and photos of your happy pup during their adventure."
+        "title": "Reliable Service",
+        "description": "We respect your time and property, working efficiently to deadlines while maintaining clean, safe work environments throughout the process."
       },
       {
-        "iconName": "Heart",
-        "title": "Passionate About Pets",
-        "description": "Every dog receives personalized attention, treats (with permission), and plenty of affection from our experienced handlers."
+        "iconName": "Shield",
+        "title": "Fully Insured & Guaranteed",
+        "description": "Complete peace of mind with comprehensive insurance coverage and workmanship guarantees on all our building and renovation projects."
       }
     ]
   },
   "gallery": {
-    "title": "Happy Dogs",
-    "subtitle": "Swipe to see our furry friends enjoying their walks",
+    "title": "Our Recent Projects",
+    "subtitle": "Browse through our portfolio of transformative building work",
     "layout": "masonry",
     "maxImages": 9,
     "viewAllLink": "/gallery",
     "images": [
       {
-        "src": "/images/gallery/dog1.jpg",
-        "alt": "Golden Retriever running in the park",
-        "title": "Park Adventures",
-        "description": "Max enjoying his afternoon run"
+        "src": "/images/gallery/construction8.jpg",
+        "alt": "",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "/images/gallery/dog2.jpg",
-        "alt": "Border Collie with a ball",
-        "title": "Playtime",
-        "description": "Bella loves her fetch sessions"
+        "src": "/images/gallery/construction2.png",
+        "alt": "",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "/images/gallery/dog3.jpg",
-        "alt": "Beagle exploring woodland trail",
-        "title": "Trail Exploration",
-        "description": "Charlie discovering new scents"
+        "src": "/images/gallery/construction3.jpg",
+        "alt": "",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "/images/gallery/dog4.jpg",
-        "alt": "Group of dogs on a walk",
-        "title": "The Pack",
-        "description": "Friends enjoying a group walk"
+        "src": "/images/gallery/construction4.png",
+        "alt": "",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "/images/gallery/dog5.jpg",
-        "alt": "Puppy learning basic commands",
-        "title": "Training Time",
-        "description": "Luna mastering her sit-stay"
+        "src": "/images/gallery/construction5.jpg",
+        "alt": "",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "/images/gallery/dog6.jpg",
-        "alt": "Dogs playing in an open field",
-        "title": "Freedom Run",
-        "description": "Supervised off-leash play area"
+        "src": "/images/gallery/construction6.jpg",
+        "alt": "",
+        "title": "",
+        "description": ""
       }
     ]
   },
   "testimonials": {
-    "title": "What Pet Parents Say",
+    "title": "What Our Clients Say",
     "quotes": [
       {
-        "name": "Emma R.",
-        "quote": "My hyperactive Lab has never been calmer since Scott started taking him on adventure walks. Worth every penny!",
-        "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=100"
+        "name": "Rebecca H.",
+        "quote": "RTM Builders transformed our outdated living room into a beautiful space with custom paneling. Their attention to detail was incredible, and they finished just in time for Christmas. We couldn't be happier!",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100"
       },
       {
-        "name": "James T.",
-        "quote": "Scott is amazing with my anxious rescue dog. The photo updates during walks give me such peace of mind when I'm at work.",
-        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100"
+        "name": "Michael T.",
+        "quote": "We had our leaking conservatory completely renovated with a new insulated timber frame roof. The team was professional, clean, and the quality of work is outstanding. It's now our favorite room in the house!",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100"
       }
     ]
   },
@@ -178,32 +181,32 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "Do you walk dogs in all weather conditions?",
-        "answer": "Yes, we walk in most weather conditions except severe storms or extreme heat. For bad weather days, we offer shorter walks or indoor play sessions as alternatives."
+        "question": "Do you handle planning permission applications?",
+        "answer": "Yes, we can manage the entire planning permission process on your behalf. Our team has extensive experience with local planning regulations and can prepare and submit all necessary documentation to maximize the chances of approval."
       },
       {
-        "question": "How many dogs do you walk at once?",
-        "answer": "For group walks, we maintain a maximum of 4 dogs per walker to ensure proper supervision and safety. Solo walks are always one-on-one."
+        "question": "How long does a typical extension project take?",
+        "answer": "Project timelines vary depending on size and complexity. A single-story extension typically takes 10-14 weeks from groundworks to completion, while larger projects may take longer. We'll provide a detailed timeline during the quotation process."
       },
       {
-        "question": "What areas do you cover?",
-        "answer": "We currently serve the entire town and surrounding villages within a 5-mile radius. Contact us to confirm if you're within our service area."
+        "question": "Do you offer guarantees on your work?",
+        "answer": "Absolutely. All our building work comes with a comprehensive workmanship guarantee, typically for 10 years. Specific materials and fixtures may also carry manufacturer warranties, which we'll pass on to you upon completion."
       },
       {
-        "question": "What happens if my dog doesn't get along with others?",
-        "answer": "We offer solo walks specifically for dogs who prefer their own space or don't socialize well with other dogs."
+        "question": "Can you help with design ideas and suggestions?",
+        "answer": "Yes, our experienced team is happy to provide design input and practical suggestions based on your requirements and budget. For more complex projects, we can recommend architectural services or work with your chosen designer."
       }
     ]
   },
   "social": {
-    "facebook": "https://facebook.com/scottsdogs",
-    "instagram": "https://instagram.com/scottsdogswalking"
+    "facebook": "https://facebook.com/rtmbuilders",
+    "instagram": "https://instagram.com/rtm_builders"
   },
   "contact": {
-    "title": "Book Your Dog's Next Adventure",
-    "description": "Ready to give your furry friend the exercise and attention they deserve? Contact us to schedule a meet-and-greet or book your first walk.",
-    "email": "woof@scottsdogs.co.uk",
-    "phone": "07700 900123"
+    "title": "Transform Your Property",
+    "description": "Ready to start your building or renovation project? Contact us today for a free, no-obligation quote tailored to your specific requirements.",
+    "email": "info@rtmbuilders.co.uk",
+    "phone": "07700 900789"
   },
   "config": {
     "primaryColor": "blue",
